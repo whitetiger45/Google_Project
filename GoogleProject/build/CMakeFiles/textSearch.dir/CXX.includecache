@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/student/SandBox/CXX/GoogleProject/textSearch.cpp
+iostream
+-
+regex
+-
+string
+-
+sstream
+-
+cstdio
+-
+cstring
+-
+unistd.h
+-
+set
+-
+sys/types.h
+-
+sys/stat.h
+-
+fcntl.h
+-
+map
+-
+

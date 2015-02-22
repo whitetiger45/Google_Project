@@ -1,0 +1,30 @@
+
+-------------------------------------
+
+-------------------------------------
+
+The dictionaries available are:
+
+[1] Book Name: alice in wonderland
+[2] Book Name: great expectations
+[3] Book Name: mary had a little lamb
+[4] Book Name: oliver twist
+[5] Book Name: peter pan
+[6] Book Name: tom sawyer
+
+-------------------------------------
+
+-------------------------------------
+
+User word search:
+
+Word found in: alice in wonderland
+Word found in: mary had a little lamb
+Word found in: tom sawyer
+
+(Word, Matches Found): (Mary, 3).
+
+
+-------------------------------------
+
+-------------------------------------
